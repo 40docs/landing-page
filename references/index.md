@@ -8,19 +8,19 @@ hide:
 
 <div class="grid cards" markdown>
 
--   __[Documentation as Code](docs-as-code.md)__
+-   __[Documentation as Code](00-docs-as-code.md)__
 
     ---
 
     Learn about Documentation as Code (DaC), an industry-standard approach to maintaining documentation alongside code for consistency, version control, and automation.
 
--   __[Industry Standards](others-using-dac.md)__
+-   __[Industry Standards](01-others-using-dac.md)__
 
     ---
 
     Explore best practices and guidelines that align with industry standards for software development, security, and compliance.
 
--   __[GitHub](git-reference.md)__
+-   __[GitHub](03-git-reference.md)__
 
     ---
 
@@ -32,7 +32,7 @@ hide:
 
     Create a GitHub account to collaborate, store repositories, and manage projects.
 
--   __[Markdown Reference](md-reference.md)__
+-   __[Markdown Reference](04-md-reference.md)__
 
     ---
 
