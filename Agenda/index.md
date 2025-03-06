@@ -47,4 +47,4 @@ hide:
 
 </div>
 
-<link rel="stylesheet" href="/landing-page.css">
+<link rel="stylesheet" href="../landing-page.css">
