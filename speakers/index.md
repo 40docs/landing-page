@@ -8,26 +8,46 @@ hide:
 # Speakers
 
 <div class="grid cards" markdown>
--   ![Tammy Getschel](images/tammy_getschel.png){ width="235" }
+-   ![Silhouette One](images/sil1.png){ width="235" }
 
-    **Tammy Getschel**
+    **Belle Whitmore**  
 
-    ---
+    ---  
 
-    SE - Western Channel National Partners
+    SE - Western Channel National Partners  
 
-    With over two decades in cybersecurity, Tammy oversees Fortinet's Channel Partner strategy in Western Canada.
+    With over two decades in cybersecurity, Belle oversees Fortinet's Channel Partner strategy in Western Canada.  
 
--   ![Pouyesh Sabouri](images/pouyesh_sabouri.png){ width="235" }
+-   ![Silhouette Two](images/sil2.png){ width="235" }
 
-    **Pouyesh Sabouri**
+    **Eric Thornton**  
 
-    ---
+    ---  
 
-    SE - Mid-Enterprise
+    SE - Mid-Enterprise  
 
-    With over two decades in Cybersecurity, Pouyesh oversees Fortinet's Mid-Enterprise Customers located in Western Canada.
+    With over two decades in cybersecurity, Eric oversees Fortinet's Mid-Enterprise Customers located in Western Canada.  
 
+-   ![Silhouette Three](images/sil3.png){ width="235" }
+
+    **Flynn Carter**  
+
+    ---  
+
+    SE - Enterprise Solutions  
+
+    Flynn specializes in advanced enterprise security solutions, helping organizations enhance their cybersecurity posture.  
+
+-   ![Silhouette Four](images/sil4.png){ width="235" }
+
+    **Ariel Dawson**  
+
+    ---  
+
+    SE - Public Sector & Education  
+
+    Ariel leads cybersecurity initiatives for public sector clients, ensuring strong security frameworks for institutions.  
 </div>
 
 <link rel="stylesheet" href="../landing-page.css">
+
