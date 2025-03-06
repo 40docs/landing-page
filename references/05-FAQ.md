@@ -28,10 +28,10 @@
 
 1. A Markdown Reference guide is located located within the References page. You can access it here:
 
-[Markdown Reference Page](http://xpertshandsonlabs.eastus.azurecontainer.io/references/md-reference/){ .md-button .md-button--primary }
+[Markdown Reference Page](md-reference.md){ .md-button .md-button--primary }
 
 ## Q4: What are the basic MkDocs syntax elements I should know?
 
 1. An MkDocs Reference guide is located located within the References page. You can access it here:
 
-[MkDocs Reference Page](http://xpertshandsonlabs.eastus.azurecontainer.io/references/mkdocs/){ .md-button .md-button--primary }
+[MkDocs Reference Page](mkdocs/index.md){ .md-button .md-button--primary }
