@@ -1,84 +1,46 @@
-# Folder/File Hierarchy
+# Contributing Guide
 
-The documentation follows a structured folder hierarchy to maintain organization and clarity. The layout is designed to categorize content based on organization, class, and individual labs or lessons.
+This repository serves as a template to help you create and maintain your own documentation or hands-on labs as code.
 
-## Folder Structure Overview
+!!! info "Using a Template Repository"
+    Instead of forking, this project uses a **GitHub Template Repository**. This allows you to create a fresh copy of the repository within your own GitHub organization.
 
-The folder hierarchy follows the pattern:
+## Contributor Workflow
 
-organization1/ └── class1/ └── lab1.md
+Follow these steps to contribute:
 
+1. **Create a GitHub Account** – If you don’t already have one.
+2. **Use the Template Repository** – Click **"Use this template"** on [this repository](https://github.com/rmmuap/landing-page) to create a new repository in your GitHub organization.
+3. **Request a Personal Access Token (PAT)** – Contact @ajammes or @rmordasiewicz for access.
+4. **Provide Your Repository Name** – Share your new repository name with @ajammes or @rmordasiewicz.
+5. **Receive Site URL** – @ajammes or @rmordasiewicz will provide a site URL for viewing your changes.
+6. **Make Contributions** – Update documentation, push changes, and see updates reflected on the site URL.
 
-The structure is flexible and can be expanded to include multiple organizations, classes, and labs as needed.
+??? tip "Why Use a Template Repository?"
+    - Avoids issues with maintaining forks
+    - Allows a fresh start while keeping upstream updates manageable
+    - Enables better collaboration within an organization
 
-### Breakdown of Each Level
+## Site Structure
 
-1. **`organization1/`**
-   - This top-level folder represents the organization or group under which the documentation is categorized.
-   - Example: `organization1/` could be replaced with a specific company name, institution, or department.
+The navigation menu in the documentation reflects the directory structure within this repository:
 
-2. **`organization1/class1/`**
-   - Each organization can have multiple classes or subjects, represented as subfolders.
-   - `class1/` represents a particular class, course, or subject area.
-   - Example: `class1/` could be named after a specific course code, subject name, or training module.
-
-3. **`organization1/class1/lab1.md`**
-   - The lowest level of the hierarchy contains individual documentation files for labs, lessons, or specific content pieces.
-   - Each lab or lesson is saved as a `.md` file within the corresponding class folder.
-   - Example: `lab1.md` could be replaced with a more descriptive file name like `introduction-to-git.md` or `lab-network-setup.md`.
-
-## Example Layout with Multiple Classes and Labs
-
-organization1/
-├── class1/
-│   ├── lab1.md
-│   ├── lab2.md
-│   └── lab3.md
-└── class2/
-    ├── lab1.md
-    ├── lab2.md
-    └── lab3.md
-
-In this example:
-- `organization1` contains two classes (`class1` and `class2`).
-- Each class has multiple lab files (`lab1.md`, `lab2.md`, etc.).
-
-## Guidelines for Adding New Content
-
-1. **Create a new folder for each new organization:**  
-   If a new organization needs to be added, create a new folder at the top level following the pattern `organization2/`.
-
-2. **Add subfolders for each class under the organization:**  
-   For each new class or subject, create a subfolder inside the respective organization's folder.
-
-3. **Document individual labs or lessons in Markdown files:**  
-   Each lab or lesson should be saved as a separate `.md` file inside the corresponding class folder. Use descriptive file names to improve readability.
-
-## Example for Multiple Organizations
-
-organization1/
-├── class1/
-│   ├── lab1.md
-│   └── lab2.md
-└── class2/
-    ├── lab1.md
-    └── lab2.md
-
-organization2/
-├── class1/
-│   ├── lab1.md
-│   ├── lab2.md
-│   └── lab3.md
-└── class3/
-    └── lab1.md
-
-With multiple organizations, each can have their own set of classes and labs organized in a similar hierarchy.
+!!! note "Navigation Rules"
+    - **Menu item names** are derived from the `index.md` file within each sub-folder. To change the menu item name, update the top-level heading (`#`) in `index.md`.
+    - **Assets and images** should be placed in a dedicated subfolder (e.g., `<subfolder>/images`).
+    - **Ordering of items** can be controlled by prefixing filenames numerically (e.g., `00-intro.md`, `01-setup.md`). Menu items will be ordered alphanumerically by filename, but their displayed name comes from the top-level heading inside the file.
 
 ## Best Practices
 
-- **Keep folder and file names concise but descriptive.**
-- **Use lowercase letters and hyphens for file names to maintain consistency.**
-- **Organize labs sequentially or by topic to facilitate navigation.**
+!!! success "Follow These Guidelines"
+    ✅ **Keep folder and file names concise but descriptive.**  
+    ✅ **Use lowercase letters and hyphens for filenames to maintain consistency.**  
+    ✅ **Organize labs sequentially or by topic for better navigation.**  
 
-This folder hierarchy helps keep documentation manageable and easy to navigate for different organizations, classes, and labs.
+This structured approach ensures clarity, consistency, and ease of use across different teams, organizations, and labs.
+
+---
+
+??? question "Need Help?"
+    Reach out to @ajammes or @rmordasiewicz for guidance!
 
