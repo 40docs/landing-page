@@ -8,6 +8,8 @@ buttons:
       target: _blank
 ---
 
+# Hands on labs
+
 <center><img src="images/unhackable_inc.gif" alt="Unhackable Inc Logo" width="256" height="256"></center>
 
 <h2 style="text-align: center;">Welcome New Hires!</h2>
