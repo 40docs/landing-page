@@ -37,17 +37,17 @@ We have also provided you a bit of [reference material](https://partner.lwdemoli
 
     Reference Material:
     ``` markdown
-    https://partner.lwdemolinks.com/docs/architectures/
+    https://fakelink.com/fake/path
     ```
 
     Username:
     ``` markdown
-    partner
+    MCHAMMER
     ```
 
     Password:
     ``` markdown
-    LWPartnersAreWelcomeToThisSite
+    CantScrapeThis
     ```
 
 Whenever you're settled and ready to get started head to the [Challenges page](https://xperts2025.lwctf.com/){: target="_blank" rel="noopener noreferrer"}.
