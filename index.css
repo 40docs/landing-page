@@ -1,5 +1,5 @@
 body {
-    background-image: url('fabric-white.gif');
+    background-image: url('fabric-white-full.gif');
     background-size: cover !important;
     background-repeat: no-repeat;
     background-attachment: scroll; /* Ensures the background scrolls with the page */
