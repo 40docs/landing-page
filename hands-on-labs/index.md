@@ -1,3 +1,13 @@
+---
+buttons:
+  - title: Hands on Lab - Download
+    icon: material-file-download-outline
+    attributes:
+      class: md-content__button md-icon
+      href: ../hands-on-labs.pdf
+      target: _blank
+---
+
 <center><img src="images/unhackable_inc.gif" alt="Unhackable Inc Logo" width="256" height="256"></center>
 
 <h2 style="text-align: center;">Welcome New Hires!</h2>
