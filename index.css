@@ -1,11 +1,11 @@
 body {
     background-image: url('fabric-white.gif');
-    background-size: cover;
+    background-size: cover !important;
     background-repeat: no-repeat;
     background-attachment: scroll; /* Ensures the background scrolls with the page */
     background-position: center;
-    height: 100vh; /* Makes the body stretch to full viewport height */
-    width: 100vw; /* Ensures it covers full width */
+    height: 100vh !important; /* Makes the body stretch to full viewport height */
+    width: 100vw !important; /* Ensures it covers full width */
     margin: 0;
     padding: 0;
     color: #333;
