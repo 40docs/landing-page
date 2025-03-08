@@ -5,4 +5,4 @@ hide:
   - footer
 ---
 
-{% include "partials/animation.html" %}
+{% include "theme/partials/animation.html" %}
