@@ -5,8 +5,6 @@ hide:
   - footer
 ---
 
-<div>
-    <img src="theme/fabric.svg" alt="Centered SVG">
-</div>
+![svg](theme/fabric.svg)
 
 <link rel="stylesheet" href="/landing-page.css">
