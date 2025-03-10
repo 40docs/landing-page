@@ -1,7 +1,7 @@
 img {
-    border:none !important;
-    border-radius: none !important;
-    box-shadow: none !important;
+    border:unset !important;
+    border-radius: unset !important;
+    box-shadow: unset !important;
     transform: scale(1.5);
     align-items: center;
 }
