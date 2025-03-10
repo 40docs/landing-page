@@ -1,7 +1,10 @@
-img {
-    border:unset !important;
-    border-radius: unset !important;
-    box-shadow: unset !important;
-    transform: scale(1.5);
-    align-items: center;
+body {
+    background-image: url('fabric-white-full.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll; /* Ensures the background scrolls with the page */
+    background-position: center;
+    margin: 0;
+    padding: 0;
+    color: #333;
 }
