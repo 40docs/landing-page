@@ -5,7 +5,7 @@ hide:
   - footer
 ---
 
-<div class="svg-container">
+<div>
     <img src="theme/fabric.svg" alt="Centered SVG">
 </div>
 
