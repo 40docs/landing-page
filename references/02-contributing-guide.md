@@ -10,7 +10,7 @@ This repository serves as a template to help you create and maintain your own do
 Follow these steps to contribute:
 
 1. **Create a GitHub Account** – If you don’t already have one.
-2. **Use the Template Repository** – Click **"Use this template"** on [this repository](https://github.com/rmmuap/landing-page) to create a new repository in your GitHub organization.
+2. **Use the Template Repository** – Click **"Use this template"** on [this repository](https://github.com/40docs/landing-page) to create a new repository in your GitHub organization.
 3. **Request a Personal Access Token (PAT)** – Contact @ajammes or @rmordasiewicz for access.
 4. **Provide Your Repository Name** – Share your new repository name with @ajammes or @rmordasiewicz.
 5. **Receive Site URL** – @ajammes or @rmordasiewicz will provide a site URL for viewing your changes.

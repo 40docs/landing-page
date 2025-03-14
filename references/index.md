@@ -45,6 +45,18 @@ hide:
 
     Learn MkDocs syntax to format documentation efficiently and improve readability.
 
+-   __[Contributing Guide](02-contributing-guide.md)__
+
+    ---
+
+    Using the techniques you learned in the reference material, you're now ready to contribute your content to the docs platform. Here's a guide on how!
+
+-   __[FAQ](05-FAQ.md)__
+
+    ---
+
+    Having issues? Maybe you'll find a solution here!
+
 </div>
 
 <link rel="stylesheet" href="/landing-page.css">
